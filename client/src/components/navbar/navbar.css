@@ -1,0 +1,12 @@
+h1 {
+    font-weight: bolder;
+    color: rgb(78, 78, 78);
+}
+
+.navbar-item:hover {
+    color: black;
+}
+
+#main {
+    background-color: white;
+}

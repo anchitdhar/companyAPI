@@ -1,0 +1,21 @@
+.hero {
+    display: table;
+    width: 100%;
+    padding-top: 120px;
+}
+  
+h1 {
+      font-size: calc(1em + 1vw);
+      text-align: center;
+}
+  
+h2 {
+      font-size: calc(0.5em + 1vw);
+      text-align: center;
+      color: rgb(78, 78, 78);
+      font-weight: bold;
+}
+
+#google {
+      color: rgb(78, 78, 78);
+}

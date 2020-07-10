@@ -1,0 +1,21 @@
+.button {
+    font-weight: bold;
+}
+
+#description {
+    text-align: justify;
+}
+
+#title, #author, #description {
+    font-size: calc(0.5em + 0.5vw);
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.columns {
+    padding-top: 10px;
+}

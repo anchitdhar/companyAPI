@@ -1,0 +1,12 @@
+footer {
+    height: 60px;
+    padding-top: 15px;
+    font-size: calc(8px + 8 * (100vw - 320px)/ 800);
+    text-align: center;
+    background-color: rgb(235, 235, 235);
+}
+
+a{
+    color: black;
+    font-weight: bolder;
+}

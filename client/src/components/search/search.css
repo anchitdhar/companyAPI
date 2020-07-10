@@ -1,0 +1,7 @@
+#search {
+    padding: 5px;
+}
+
+::placeholder {
+    font-size: calc(0.55em + 0.55vw);
+  }
